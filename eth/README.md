@@ -9,5 +9,5 @@ npx hardhat node
 ```
 
 ```
-npx hardhat rn scripts/deploy.js --network localhost
+npx hardhat run scripts/deploy.js --network localhost
 ```
