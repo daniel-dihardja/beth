@@ -1,0 +1,6 @@
+/.idea/
+/eth/node_modules/
+/eth/cache/
+/eth/artifacts/build-info/
+/eth/artifacts/
+/api/node_modules/
